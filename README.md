@@ -4,7 +4,7 @@
 - Data visualization and analysis with multiple machine learning models.
 
 ## G66_source_code.ipynb
-This notebook contains the visualization of the [stroke data](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset) together with four machine learning models - **Logistic Regression, Gaussian Naive Bayes, k-nearest neighbors, and Artificial neural network with Genetic Algorithm optimization**- training on it. The dataset being used in this program is `healthcare-dataset-stroke-data.csv`. This is the original dataset directly downloaded from aforementioned kaggle website.
+This notebook contains the visualization of the [stroke data](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset) together with four machine learning models - **Logistic Regression, Gaussian Naive Bayes, k-nearest neighbors, and Artificial neural network with Genetic Algorithm optimization**- training on it. The dataset being used in this program is `healthcare-dataset-stroke-data.csv`. This is the original dataset directly downloaded from the aforementioned kaggle website.
 
 ## app.py
 This is an interative web app to predict stroke. The dataset being used in this program is `stroke.csv`. This is the processed data containing only numerical values.
