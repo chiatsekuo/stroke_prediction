@@ -10,8 +10,9 @@ This notebook contains the visualization of the [stroke data](https://www.kaggle
 This is an interative web app to predict stroke.
 
 ### Usage & 
-- pip install streamlit
-- To run the app, simply run the command: `streamlit run app.py`
+- Install *streamlit* on your local machine by `pip install streamlit`.
+- To run the app, simply run the command: `streamlit run app.py`.
 
+The web app should look like the screenshots below. You may tweak the values at the sidebars to try out different factors that might cause stroke. 
 ![alt text](https://github.com/chiatsekuo/stroke_prediction/blob/main/screenshots/landing_page.PNG "app landing page")
 ![alt text](https://github.com/chiatsekuo/stroke_prediction/blob/main/screenshots/second_scroll.PNG "app landing page")
