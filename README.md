@@ -16,6 +16,6 @@ This is an interative web app to predict stroke.
 ### Description
 - You may tweak the values at the sidebars to try out different factors that might cause stroke.
 - The prediction will be shown in the **Classification** section.
-- 
+
 ![alt text](https://github.com/chiatsekuo/stroke_prediction/blob/main/screenshots/landing_page.PNG "app landing page")
 ![alt text](https://github.com/chiatsekuo/stroke_prediction/blob/main/screenshots/second_scroll.PNG "app landing page")
