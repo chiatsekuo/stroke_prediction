@@ -1,6 +1,6 @@
 # stroke_prediction
 
-- An interactive web application to predict stroke by machine learning built with https://streamlit.io/.
+- An interactive web application to predict stroke by machine learning built with [Streamlit](https://streamlit.io/) can be found [Here](https://share.streamlit.io/chiatsekuo/stroke_prediction/main/app.py).
 - Data visualization and analysis with multiple machine learning models.
 
 ## G66_source_code.ipynb
